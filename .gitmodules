@@ -4,3 +4,9 @@
 [submodule "UnrealAssigmentWeek2"]
 	path = UnrealAssigmentWeek2
 	url = https://github.com/Trickypandey/UnrealAssigmentWeek2.git
+[submodule "UnrealAssigmentWeek3"]
+	path = UnrealAssigmentWeek3
+	url = https://github.com/Trickypandey/UnrealAssigmentWeek3.git
+[submodule "UnrealAssigmentWeek4"]
+	path = UnrealAssigmentWeek4
+	url = https://github.com/Trickypandey/UnrealAssigmentWeek4.git
