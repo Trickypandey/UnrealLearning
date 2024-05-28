@@ -10,3 +10,6 @@
 [submodule "UnrealAssigmentWeek4"]
 	path = UnrealAssigmentWeek4
 	url = https://github.com/Trickypandey/UnrealAssigmentWeek4.git
+[submodule "UnrealAssigmentAllCombine"]
+	path = UnrealAssigmentAllCombine
+	url = https://github.com/Trickypandey/UnrealAssigmentAllCombine
